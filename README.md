@@ -65,8 +65,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting!+😊;Have+a+Nice+Day!+🌸;Happy+Coding!+💻✨&center=true&width=500&height=45&color=F7931E&vCenter=true&pause=1200" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting!+😊;Have+a+Nice+Day!+🌸;Happy+Coding!+💻✨" />
 </p>
 
-
-⭐ **If you like my work, feel free to star my repositories!**
