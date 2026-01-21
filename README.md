@@ -56,12 +56,17 @@
 
 ---
 
-## 💡 Fun Coding Line
+---
+
+## 💡 Code Philosophy
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Code.+Build.+Debug.+Repeat.;Turning+Coffee+☕+into+Code+💻;Learning+Every+Day+🚀&center=true&width=600&height=45&color=38B2AC&vCenter=true&pause=1000" />
+  <b>"Code, Innovate, Inspire!" 🚀</b>
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting!+😊;Have+a+Nice+Day!+🌸;Happy+Coding!+💻✨&center=true&width=500&height=45&color=F7931E&vCenter=true&pause=1200" />
+</p>
+
 
 ⭐ **If you like my work, feel free to star my repositories!**
